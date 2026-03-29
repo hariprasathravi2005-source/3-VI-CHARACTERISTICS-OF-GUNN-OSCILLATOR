@@ -101,7 +101,7 @@ This behavior confirms the **negative differential resistance (NDR)** characteri
 
 
 **Precautions:**
-
+ 
 •	Check the connections before switching on the kit.
 •	Connections should be done properly.
 •	Observation should be taken properly.
